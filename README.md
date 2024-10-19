@@ -45,7 +45,7 @@ The first design focused on testing the core components of ShroomCycle, particul
  <img src="https://github.com/LiCHihTseng/ShroomCycle/blob/main/source/Initial_prototype2.png" alt="Initial Prototype" style="height: 200px">
 </div>
 
-here is the link for basic functionality code: [Click here](https://github.com/LiCHihTseng/ShroomCycle/blob/main/pressure_sensor.ino)
+**here is the link for basic functionality code: [Click here](https://github.com/LiCHihTseng/ShroomCycle/blob/main/pressure_sensor.ino)**
 
 <h4>Iteration #1: Introducing the Mushroom Design</h4>
 After identifying issues with exposed wiring in the initial design, we pivoted to the mushroom-shaped lamp, which offered better space for cable management and a cleaner design. This mushroom design was not only safer but also allowed for more creative flexibility in housing the electronics. We integrated an Ambient Light Sensor in this iteration, enabling the lamp to detect when the room became dark and automatically adjust the lighting accordingly, enhancing its usability in varied lighting conditions.
@@ -58,6 +58,7 @@ This phase focused on constructing the physical prototype of the mushroom lamp. 
 Once the mushroom prototype was completed, we conducted a more comprehensive user evaluation using a survey to gather feedback. Participants engaged with ShroomCycle and shared their thoughts on its functionality and design. The survey can be accessed here. This feedback was crucial for understanding user preferences and refining the product further.
 <img src="https://github.com/LiCHihTseng/ShroomCycle/blob/main/source/ShroomCycle.png" alt="Initial Prototype" style="height: 200px">
 
+**here is the link for Final functionality code: [Click here](https://github.com/LiCHihTseng/ShroomCycle/blob/main/Final_Prototype.ino)**
 
 ## Note
 Here is the note for the team discussion:
