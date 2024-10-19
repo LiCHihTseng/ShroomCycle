@@ -41,6 +41,8 @@ Before finalizing the design, we tested the mushroom concept with users and rece
 
 The first design focused on testing the core components of ShroomCycle, particularly the integration of pressure sensors and LEDs. This initial prototype was a proof of concept aimed at determining whether the system could successfully detect when a phone was placed in the lamp and whether the lights could be turned off accordingly. While this prototype achieved basic functionality, it raised concerns about the wiring layout, as too much exposed wiring posed a potential hazard.
 
+![Alt text](image-3.png)
+
 <h4>Iteration #1: Introducing the Mushroom Design</h4>
 After identifying issues with exposed wiring in the initial design, we pivoted to the mushroom-shaped lamp, which offered better space for cable management and a cleaner design. This mushroom design was not only safer but also allowed for more creative flexibility in housing the electronics. We integrated an Ambient Light Sensor in this iteration, enabling the lamp to detect when the room became dark and automatically adjust the lighting accordingly, enhancing its usability in varied lighting conditions.
 
