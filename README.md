@@ -1,4 +1,4 @@
-![](https://github.com/LiCHihTseng/ShroomCycle/source/Logo.gif)
+![](https://github.com/LiCHihTseng/ShroomCycle/source/logo.gif)
 # ShroomCycle
 This is a brief introduction to ShroommCycle.
  
