@@ -59,4 +59,5 @@ Once the mushroom prototype was completed, we conducted a more comprehensive use
 
 
 ## Note
-https://web.goodnotes.com/s/fYJEnX1yz7JSfvdPmL7m31#page-
+Here is the note for the team discussion:
+[Link to the note](https://web.goodnotes.com/s/fYJEnX1yz7JSfvdPmL7m31#page-)
