@@ -40,16 +40,23 @@ During the creation of ShroomCycle, we went through two major design iterations,
 Before finalizing the design, we tested the mushroom concept with users and received mostly positive feedback: out of 42 participants, only 12 expressed dissatisfaction or felt indifferent about the design.
 
 The first design focused on testing the core components of ShroomCycle, particularly the integration of pressure sensors and LEDs. This initial prototype was a proof of concept aimed at determining whether the system could successfully detect when a phone was placed in the lamp and whether the lights could be turned off accordingly. While this prototype achieved basic functionality, it raised concerns about the wiring layout, as too much exposed wiring posed a potential hazard.
+<div>
+ <img src="https://github.com/LiCHihTseng/ShroomCycle/blob/main/source/Initial_Prototype.png" alt="Initial Prototype" style="height: 200px">
+ <img src="https://github.com/LiCHihTseng/ShroomCycle/blob/main/source/Initial_prototype2.png" alt="Initial Prototype" style="height: 200px">
+</div>
 
-![Alt text](image-3.png)
 
 <h4>Iteration #1: Introducing the Mushroom Design</h4>
 After identifying issues with exposed wiring in the initial design, we pivoted to the mushroom-shaped lamp, which offered better space for cable management and a cleaner design. This mushroom design was not only safer but also allowed for more creative flexibility in housing the electronics. We integrated an Ambient Light Sensor in this iteration, enabling the lamp to detect when the room became dark and automatically adjust the lighting accordingly, enhancing its usability in varied lighting conditions.
 
 <h4>Building the Mushroom</h4>
 This phase focused on constructing the physical prototype of the mushroom lamp. The design was crafted to hide all cables neatly within the mushroom's stem, offering both a minimalist aesthetic and a functional solution for cable management. The build incorporated pressure sensors, LEDs, and ambient light sensors, ensuring that the prototype was not only safe but also responsive to user interactions.
+<img src="https://github.com/LiCHihTseng/ShroomCycle/blob/main/source/Make_Shroom.png" alt="Initial Prototype" style="height: 200px">
 
 <h4>Final Prototype: User Testing and Feedback</h4>
 Once the mushroom prototype was completed, we conducted a more comprehensive user evaluation using a survey to gather feedback. Participants engaged with ShroomCycle and shared their thoughts on its functionality and design. The survey can be accessed here. This feedback was crucial for understanding user preferences and refining the product further.
+<img src="https://github.com/LiCHihTseng/ShroomCycle/blob/main/source/ShroomCycle.png" alt="Initial Prototype" style="height: 200px">
+
+
 ## Note
 https://web.goodnotes.com/s/fYJEnX1yz7JSfvdPmL7m31#page-
