@@ -31,19 +31,19 @@ Make sure you have the following installed on your system:
 - Basic hardware components like pressure sensors, LEDs, and ambient light sensors.
 
 <h4>Step-by-Step Installation Guide</h4>
-1. Clone the repository
+1. Clone the repository<br>
 
 Open your terminal and run the following command to clone the ShroomCycle project:
 
 ```
 git clone https://github.com/LiCHihTseng/ShroomCycle.git
 ```
-2. Install dependencies
+2. Install dependencies<br>
 Depending on the microcontroller you're using (e.g., Arduino), you will need to install the required libraries. For Arduino, use the Arduino IDE and ensure the following libraries are installed:
 - Adafruit Sensor Library (for sensors)
 - FastLED Library (for LED control)
 
-3. Upload the code
+3. Upload the code<br>
 Connect your microcontroller to your computer, open the project in Arduino IDE, and upload the code to your microcontroller.
 
 **Here is the link for the Final functionality code: [Click here](https://github.com/LiCHihTseng/ShroomCycle/blob/main/Final_Prototype.ino)**
@@ -63,12 +63,12 @@ The ShroomCycle system is designed to connect multiple lamps in different rooms.
 
 <img src="https://github.com/LiCHihTseng/ShroomCycle/blob/main/source/ShroomCycle.png" alt="Initial Prototype" style="height: 200px">
 
-## Include Credits
+## A Concept Developed by Team ZZzZZ for DECO3500: Social and Mobile Computing
 
 | Name  | github |
 | ------------- | ------------- |
 | Li-Chih Tseng  | [@LiCHihTseng](https://github.com/LiCHihTseng)  |
-| Derek Joel George  | @theDerekJoelGeorge  |
+| Derek Joel George  | @theDerekJoelGeorge(https://github.com/theDerekJoelGeorge)   |
 
 ## Note
 Here is the note for the team discussion:
