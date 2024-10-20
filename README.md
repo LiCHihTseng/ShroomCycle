@@ -3,7 +3,7 @@
 </p>
 
 # ShroomCycle
-**ShroomCycle** is a smart lamp system designed to improve sleep hygiene among university students. It creates a collaborative experience where friends can sync their sleep cycles by controlling the lighting environment through connected lamps, helping students maintain healthy sleep routines.
+**ShroomCycle** is a smart lamp system designed to improve sleep hygiene among university students. It creates a collaborative experience where friends can sync their sleep cycles by controlling the lighting environment through connected lamps, helping students maintain healthy sleep routines. This project has been developed by: Danish Rafid Rajendra, Derek Joel George, Li-Chih Tseng (Jason), Yutian Zheng (Yuna), Xinyi Xu (Caroline) 
 
 **[Poster Link](https://github.com/LiCHihTseng/ShroomCycle/blob/main/POSTER.pdf)**
 
