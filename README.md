@@ -9,6 +9,8 @@
 
 **[First Presentation Link](https://github.com/LiCHihTseng/ShroomCycle/blob/main/Presentation.pdf)**
 
+**[Promotional Video](https://www.dropbox.com/scl/fi/psb5eel48ddmr2vkx6exu/Final.mp4?rlkey=1d96wtdk5a6niu6c8wer76ard&st=v0fzcaty&dl=0)**
+
 **[Trade show presentation Link]**
 
 ## Project Description
