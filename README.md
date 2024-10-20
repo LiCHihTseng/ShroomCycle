@@ -46,7 +46,7 @@ Depending on the microcontroller you're using (e.g., Arduino), you will need to 
 3. Upload the code
 Connect your microcontroller to your computer, open the project in Arduino IDE, and upload the code to your microcontroller.
 
-**here is the link for Final functionality code: [Click here](https://github.com/LiCHihTseng/ShroomCycle/blob/main/Final_Prototype.ino)**
+**Here is the link for the Final functionality code: [Click here](https://github.com/LiCHihTseng/ShroomCycle/blob/main/Final_Prototype.ino)**
 
 
 ## How to Use the Project
@@ -54,7 +54,7 @@ Once you’ve successfully installed and set up ShroomCycle, follow these steps 
 
 <h4>Basic Operation</h4>
 Turning off the lights
-When you place your phone inside the ShroomCycle lamp, the pressure sensor detects it and automatically turns off the lamp. If multiple lamps are connected, all lamps will turn off when phones are placed in them.
+When you place your phone inside the ShroomCycle lamp, the pressure sensor detects it and automatically turns off the lamp. If multiple lamps are connected, lights will turn off based on when phones are placed in them.
 
 <h4>Syncing with friends</h4>
 The ShroomCycle system is designed to connect multiple lamps in different rooms. When all phones are placed in the connected lamps, the entire network of lamps will turn off, helping friends synchronize their sleep schedules.
