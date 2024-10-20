@@ -7,7 +7,9 @@
 
 **[Poster Link](https://github.com/LiCHihTseng/ShroomCycle/blob/main/POSTER.pdf)**
 
-**[Presentation Link](https://github.com/LiCHihTseng/ShroomCycle/blob/main/Presentation.pdf)**
+**[First Presentation Link](https://github.com/LiCHihTseng/ShroomCycle/blob/main/Presentation.pdf)**
+
+**[Trade show presentation Link]**
 
 ## Project Description
 Many university students struggle with maintaining healthy sleep hygiene due to irregular schedules, late-night study sessions, and social activities. Poor sleep patterns can negatively impact academic performance, mental health, and overall well-being. In our user research, we found that most participants use their phones before sleeping, which can potentially affect their sleep. [see more user research this file](https://github.com/LiCHihTseng/ShroomCycle/tree/main/User%20Research%20-%20Diary%20Study)
