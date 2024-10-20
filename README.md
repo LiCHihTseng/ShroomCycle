@@ -75,6 +75,7 @@ The ShroomCycle system is designed to connect multiple lamps in different rooms.
 | ------------- | ------------- |
 | Li-Chih Tseng  | [@LiCHihTseng](https://github.com/LiCHihTseng)  |
 | Derek Joel George  | [@theDerekJoelGeorge](https://github.com/theDerekJoelGeorge)   |
+| Danish Rafid Rajendra | [@DanishRafid18](https://github.com/DanishRafid18) |
 
 ## Note
 Here is the note for the team discussion:
