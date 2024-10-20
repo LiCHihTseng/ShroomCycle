@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://github.com/LiCHihTseng/ShroomCycle/blob/main/source/logo_black.gif" alt="ShroomCycle Logo" height="250" >
+ <img src="https://github.com/LiCHihTseng/ShroomCycle/blob/main/source/logo.gif" alt="ShroomCycle Logo" height="250" >
 </p>
 
 # ShroomCycle
